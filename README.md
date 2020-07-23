@@ -14,3 +14,14 @@ A. MÔ TẢ VỀ ỨNG DỤNG Android Studio:
 - Khi tạo một ứng dụng Android mới, chúng ta sẽ phải điền một số thông tin trong hộp thoại Create Android Project sau:
 
 ![image](Untitled7.png)
+
+- Có các Nhiều loại khác nhau mà bạn có thể lựa chọn !
+
+### Tạo một Activity
+
+- Một Activity là một mô-đun ứng dụng liên quan trực tiếp đến một giao diện người dùng và các thành phần của giao diện này như layout, controls, v.v.
+
+- Mặc định, Android Studio 4.X cung cấp một số các Activity mẫu cho phép chúng ta phát triển các ứng dụng Android khác nhau. Chúng ta có thể lựa chọn các mẫu Activity trong hộp thoại Add an Activity to Mobile:
+ 
+ ![image](android2.png)
+ 
