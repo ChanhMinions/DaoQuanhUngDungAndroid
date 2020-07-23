@@ -40,6 +40,10 @@ A. MÔ TẢ VỀ ỨNG DỤNG Android Studio:
 
 ### Chúc Các Bạn Thành Công !!!
 
+### Bạn Có Thể Xem Bài Tiếp Theo:
+
+- <a href="https://github.com/ChanhMinions/IntroductiontoAndroid">Introduction to Android Programming in Android Studio 3.0!</a>
+
 ![image](ezr.png)
 
                                                                              Trần Phú , Ngày 23 tháng 7 Năm 2020
