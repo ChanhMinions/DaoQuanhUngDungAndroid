@@ -27,3 +27,8 @@ A. MÔ TẢ VỀ ỨNG DỤNG Android Studio:
  - Với mục đích của chúng ta, có thể chọn Empty Activity – là một Activity đơn giản nhất. Nhấn Next. Nhập một số thông tin trong hộp Configure Activity:
  
   ![image](Untitled8.png)
+  
+  
+- Activity Name là tên của Activity hiện tại của chúng ta. Lưu ý rằng, một ứng dụng Android có thể có rất nhiều Activity và điều này sẽ được tìm hiểu trong các bài sau. Layout Name là tên của tập tin tạo layout cho giao diện người dùng của Activity hiện tại. Có thể thay đổi tên tùy ý, trong trường hợp này chúng ta giữ nguyên các tên mặc định. Nhận Finish. Giao diện Android Studio lúc này trông như sau:
+
+![image](Untitled9.png)
