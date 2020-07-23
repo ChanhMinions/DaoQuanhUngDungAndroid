@@ -14,7 +14,6 @@ A. MÔ TẢ VỀ ỨNG DỤNG Android Studio:
 - Khi tạo một ứng dụng Android mới, chúng ta sẽ phải điền một số thông tin trong hộp thoại Create Android Project sau:
 
 ![image](Untitled7.png)
-
 - Có các Nhiều loại khác nhau mà bạn có thể lựa chọn !
 
 ### Tạo một Activity
