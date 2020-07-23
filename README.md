@@ -32,3 +32,14 @@ A. MÔ TẢ VỀ ỨNG DỤNG Android Studio:
 - Activity Name là tên của Activity hiện tại của chúng ta. Lưu ý rằng, một ứng dụng Android có thể có rất nhiều Activity và điều này sẽ được tìm hiểu trong các bài sau. Layout Name là tên của tập tin tạo layout cho giao diện người dùng của Activity hiện tại. Có thể thay đổi tên tùy ý, trong trường hợp này chúng ta giữ nguyên các tên mặc định. Nhận Finish. Giao diện Android Studio lúc này trông như sau:
 
 ![image](Untitled9.png)
+
+ ### Thay đổi giao diện người dùng
+  
+ - Cũng Có thể tham khảo tài liệu:
+ - <a href="https://www.youtube.com/watch?time_continue=1&v=-mAgxwZgDzc&feature=emb_logo">Tương tác với các thành phần trên giao diện Android</a>
+
+### Chúc Các Bạn Thành Công !!!
+
+![image](ezr.png)
+
+                                                                                  Trần Phú , Ngày 23 tháng 7 Năm 2020
