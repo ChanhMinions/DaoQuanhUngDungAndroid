@@ -25,4 +25,5 @@ A. MÔ TẢ VỀ ỨNG DỤNG Android Studio:
  ![image](android2.png)
  
  - Với mục đích của chúng ta, có thể chọn Empty Activity – là một Activity đơn giản nhất. Nhấn Next. Nhập một số thông tin trong hộp Configure Activity:
-  ![image](Untitled78.png)
+ 
+  ![image](Untitled8.png)
